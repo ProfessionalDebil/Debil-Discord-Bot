@@ -6,7 +6,7 @@ from discord.ext import commands
 
 TOKEN = "place your token here"
 PREFIX = "!"
-BOT_CHANNEL = 0123123123 # main bot channel id
+BOT_CHANNEL = 123123123123 # main bot channel id
 
 client = commands.Bot(command_prefix=PREFIX, case_insensitive=True)
 
